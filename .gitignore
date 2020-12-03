@@ -1,4 +1,5 @@
 *.blend1
 *.wrl
 debug.txt
+ref
 gamestate.txt
