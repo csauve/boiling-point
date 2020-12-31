@@ -2,5 +2,7 @@
 *.wrl
 debug.txt
 ref
+wip
 *.kra~
 gamestate.txt
+err.obj
