@@ -2,7 +2,8 @@
 *.wrl
 debug.txt
 ref
-wip
+/wip
+/release
 *.kra~
 gamestate.txt
 err.obj
